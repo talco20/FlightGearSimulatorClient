@@ -5,6 +5,9 @@ FlightGear 2020.3 Simulator Client Controllers
 
 This project is a JavaFX-based client application designed to interface with the FlightGear flight simulator using telnet. The application provides users with a comprehensive graphical user interface (GUI) to control various flight parameters. Users can manipulate the aileron and elevator using an on-screen joystick, adjust the throttle and rudder through intuitive sliders, and fine-tune these controls with keyboard inputs. By connecting to FlightGear's telnet server, the application sends real-time commands to the simulator, allowing for a seamless and interactive flight experience. This setup is ideal for flight simulation enthusiasts looking for an enhanced control interface and developers interested in extending or customizing their flight control systems.
 
+![FilghtGearController](https://github.com/user-attachments/assets/6ebc17c6-57ef-41b2-8eae-0995d1d49f13)
+
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
