@@ -35,7 +35,7 @@ public class Main extends Application {
 
         // Set the scene and show the primary stage
         primaryStage.setScene(scene);
-        primaryStage.setTitle("MVC Example");
+        primaryStage.setTitle("FlightGear Controller");
         primaryStage.show();
 
         // Add key event handling
