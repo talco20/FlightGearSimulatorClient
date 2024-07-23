@@ -1,5 +1,5 @@
 # FlightGearSimulatorClient
-FlightGear 2020.3 Simulator Client Controllers
+FlightGear 2020.3 Simulator Client Controllers Using MVC Architecture
 
 # FlightGear JavaFX Client
 
